@@ -14,8 +14,6 @@ Older dependendies in the original HICu Install the following packages to run th
     tqdm==4.62.3
     transformers==4.5.1
 
-pip install -r requirements.txt
-
 I used these to overcome issues with dependencies being out of date (Newer updated dependencies if older doesnt work) 
 
 gensim==4.1.2
