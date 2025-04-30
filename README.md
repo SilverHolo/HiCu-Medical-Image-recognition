@@ -1,8 +1,8 @@
 # HiCu-ICD-codes
 
-The Original setup was however i had to make edits to my local machine 
+The Original setup was a bit old and some dependencies were out of date however it could work but i made edits to my local machine to make it easier for update dependencies the old ones 
 
-Install the following packages to run the code in this repository:
+Older dependendies in the original HICu Install the following packages to run the code in this repository:
 
     gensim==4.1.2
     nltk==3.5
@@ -16,7 +16,7 @@ Install the following packages to run the code in this repository:
 
 pip install -r requirements.txt
 
-I used these to overcome issues with dependencies being out of date 
+I used these to overcome issues with dependencies being out of date (Newer updated dependencies if older doesnt work) 
 
 gensim==4.1.2
 nltk==3.5
@@ -29,14 +29,15 @@ tqdm==4.62.3
 transformers==4.5.1
 Note: numpy==1.18.1 was initially requested but replaced by 1.24.4 automatically during gensim installation. This is OK unless you see runtime errors — if needed, you can lock it back to 1.18.1.
 
-Create and activate a virtual environment 
+Step1: Create and activate a virtual environment 
 
 python -m venv hicu-env
 hicu-env\Scripts\activate
 
+Step 2: 
 cd into the HiCu-ICD-main
 
-Install dependencies 
+Step 3: Install dependencies 
 
 pip install -r requirements.txt
 
