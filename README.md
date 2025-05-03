@@ -17,6 +17,18 @@ tqdm==4.66.1
 transformers==4.35.2
 packaging==23.2
 
+pip install gensim==4.3.2
+pip install nltk==3.8.1
+pip install numpy==1.23.5
+pip install pandas==1.5.3
+pip install scikit_learn==1.2.2
+pip install scipy==1.11.3
+pip install torch==2.1.0+cu118
+pip install tqdm==4.66.1
+pip install transformers==4.35.2
+pip install packaging==23.2
+
+
 
 Local device preprocessing:
 
