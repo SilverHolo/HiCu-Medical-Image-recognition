@@ -10,6 +10,10 @@ Second the hadm id files
 
 https://github.com/jamesmullenbach/caml-mimic/tree/master/mimicdata/mimic3 
 
+Both of these go in the DN3HiCu/data/mimic3 file
+
+with the D_ICD_DIAGNOSES.csv and D_ICD_PROCEDURES just in the DN3HiCu/data file
+
 #Setup
 
 The Original setup was a bit old and some dependencies were out of date however it could work but i made edits to my local machine to make it easier for update dependencies the old ones 
