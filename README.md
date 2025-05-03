@@ -4,6 +4,22 @@
 
 The Original setup was a bit old and some dependencies were out of date however it could work but i made edits to my local machine to make it easier for update dependencies the old ones 
 
+For Google colab preprocessing:
+
+gensim==4.3.2
+nltk==3.8.1
+numpy==1.23.5
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy==1.11.3
+torch==2.1.0+cu118
+tqdm==4.66.1
+transformers==4.35.2
+packaging==23.2
+
+
+Local device preprocessing:
+
 Older dependendies in the original HICu Install the following packages to run the code in this repository:
 
     gensim==4.1.2
