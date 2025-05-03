@@ -1,5 +1,15 @@
 # HiCu-ICD-codes
 
+Before we start we need two datasets 
+
+First the 
+
+https://physionet.org/content/mimiciii/1.4/#files
+
+Second the hadm id files 
+
+https://github.com/jamesmullenbach/caml-mimic/tree/master/mimicdata/mimic3 
+
 #Setup
 
 The Original setup was a bit old and some dependencies were out of date however it could work but i made edits to my local machine to make it easier for update dependencies the old ones 
@@ -121,4 +131,13 @@ Output files like:
     Embeddings: processed_50_100.embed, etc.
 
 ![e9f4a674d812c5c56b58249e507c85f3](https://github.com/user-attachments/assets/68c1d0fb-aade-4fe1-977f-184be67f91e2)
+
+Step 5: 
+
+now train the MultiResCNN HiCuA Model
+
+Run 
+
+!python /content/DN3HiCu/runs/run_multirescnn_hicua_asl_full.py
+
 
