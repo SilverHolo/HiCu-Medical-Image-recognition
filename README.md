@@ -141,6 +141,11 @@ Output files like:
 
 Step 6: 
 
+Run the basic run_multirescnn50 !python /content/DN3HiCu/runs/run_multirescnn_50.py
+
+![1e8ea19588d873395c30bffc90cc0b1c](https://github.com/user-attachments/assets/d1a12ffd-6175-4ac6-b28e-66eed078b071)
+
+
 now train the MultiResCNN HiCuA Model
 
 Run 
