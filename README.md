@@ -42,7 +42,7 @@ pip install tqdm==4.66.1
 pip install transformers==4.35.2
 pip install packaging==23.2
 
-
+if no issues proceed to step 4
 
 Local device preprocessing:
 
