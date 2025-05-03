@@ -70,3 +70,25 @@ scipy==1.10.1
 torch==1.7.1
 tqdm==4.62.3
 transformers==4.5.1
+
+Step 5 
+
+Make sure you’ve placed the raw MIMIC-III CSV files (not .gz) into data/mimic3/.
+
+Step 4 
+Still in the HiCu-ICD file
+
+run the python file preprocess_mimic3
+
+Should output files like 
+
+Output files like:
+
+    train_50.csv, dev_50.csv, test_50.csv
+
+    train_full.csv, etc.
+
+    Embeddings: processed_50_100.embed, etc.
+
+![e9f4a674d812c5c56b58249e507c85f3](https://github.com/user-attachments/assets/68c1d0fb-aade-4fe1-977f-184be67f91e2)
+
