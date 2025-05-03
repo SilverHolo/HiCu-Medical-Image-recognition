@@ -80,6 +80,8 @@ Still in the HiCu-ICD file
 
 run the python file preprocess_mimic3
 
+!python /content/DN3HiCu/preprocess_mimic3.py --MIMIC_3_DIR /content/DN3HiCu/data/mimic3
+
 Should output files like 
 
 Output files like:
