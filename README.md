@@ -143,4 +143,6 @@ Run
 
 !python /content/DN3HiCu/runs/run_multirescnn_hicua_asl_full.py
 
+![42dfbff9d34ba4b1ffd3441bd1ab5484](https://github.com/user-attachments/assets/7bdb4e55-e3ab-4017-ab08-4afdff279325)
+
 
