@@ -1,6 +1,5 @@
 # HiCu-ICD-codes
 
-Google colab link: https://colab.research.google.com/drive/1ONuRA30Ayezy3W3bSzVSD50eiuXxrEwf?usp=sharing
 
 google drive: https://drive.google.com/drive/folders/1RhKb69YLgd68a2v9WzVTuKoHOaZ2cw_U?usp=sharing 
 
