@@ -113,11 +113,10 @@ torch==1.7.1
 tqdm==4.62.3
 transformers==4.5.1
 
-Step 5 
+Step 6
 
 Make sure you’ve placed the raw MIMIC-III CSV files (not .gz) into data/mimic3/.
 
-Step 4 
 Still in the HiCu-ICD file
 
 run the python file preprocess_mimic3
@@ -136,7 +135,7 @@ Output files like:
 
 ![e9f4a674d812c5c56b58249e507c85f3](https://github.com/user-attachments/assets/68c1d0fb-aade-4fe1-977f-184be67f91e2)
 
-Step 5: 
+Step 6: 
 
 now train the MultiResCNN HiCuA Model
 
