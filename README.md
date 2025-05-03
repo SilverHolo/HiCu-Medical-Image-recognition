@@ -4,6 +4,8 @@ Google colab link: https://colab.research.google.com/drive/1ONuRA30Ayezy3W3bSzVS
 
 google drive: https://drive.google.com/drive/folders/1RhKb69YLgd68a2v9WzVTuKoHOaZ2cw_U?usp=sharing 
 
+Youtube link: https://youtu.be/RnmPvxD_OKM 
+
 Before we start we need two datasets 
 
 First the 
